@@ -1,3 +1,3 @@
 # github001
 ## Projectdescription
-* this Project is a test og basic github use
+* this Project is a test of basic github use
